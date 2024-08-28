@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                   height: 300, // 적절한 높이를 설정합니다.
                   margin: EdgeInsets.all(20),
                   color: Colors.yellow,
-                  child: Text('나는 용원게이다'),
+                  child: Text('나는 용준게이다'),
                 ),
                 Container(
                   height: 300, // 적절한 높이를 설정합니다.
