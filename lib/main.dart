@@ -42,9 +42,11 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
                 Container(
+                  width: double.infinity,
                   height: 300, // 적절한 높이를 설정합니다.
                   margin: EdgeInsets.all(20),
                   color: Colors.yellow,
+                  child: Text('나는 방우현'),
                 ),
                 Container(
                   height: 300, // 적절한 높이를 설정합니다.
